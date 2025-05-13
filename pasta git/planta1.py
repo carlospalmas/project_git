@@ -72,3 +72,5 @@ estufa = [
 ]
 
 monitorar_estufa(estufa)
+
+# teste de atualização
