@@ -56,7 +56,7 @@ class PlantaAquatica(Planta):
         if self.get_umidade() < 90:
             print("⚠️ Atenção: A planta aquática precisa de mais umidade!")
         if self.get_luz() >= 50:
-            print("⚠️ Atenção: A planta aquática precisa de menos luz!")
+            print("⚠️ Atenção: A planta aquática nAo precvida de tanta luz!")
 
 def monitorar_estufa(lista_plantas):
     for planta in lista_plantas:
